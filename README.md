@@ -65,6 +65,17 @@ npm start
 
 8. To leave the meeting, click on the "Leave" button or close the browser tab.
 
+## Project Team
+1. @abhi280403
+2. @Rakshith1206
+3. @rohithreddy29
+4. @Kireeti03
+5. @abhipranav16
+
+## Screenshots
+![Google Authentication]([image-url](https://user-images.githubusercontent.com/122891629/251082557-70018b39-b5e5-4e65-ba40-4a06402756a5.png))
+
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
