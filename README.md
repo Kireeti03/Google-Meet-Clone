@@ -73,7 +73,11 @@ npm start
 5. @abhipranav16
 
 ## Screenshots
-![Google Authentication](https://drive.google.com/file/d/1ejXv0iQj6L3Nd0JhUHQ3dF5HQbNq0eQn/view?usp=drive_link)
+![Google Authentication](https://github.com/Kireeti03/Google-Meet-Clone/assets/134700158/1b33d401-5818-4834-8f6b-344876a40875)
+![Home](https://github.com/Kireeti03/Google-Meet-Clone/assets/134700158/1975e827-9638-4802-8b34-62009c8ff93c)
+![chatbox](https://github.com/Kireeti03/Google-Meet-Clone/assets/134700158/11f336c5-4b18-470d-8526-8810c2b7e76a)
+![Room](https://github.com/Kireeti03/Google-Meet-Clone/assets/134700158/0e2ad87a-d941-41ff-9f97-8e21ab4ed079)
+
 
 
 ## Contributing
