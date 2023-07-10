@@ -11,7 +11,6 @@ This is a clone of Google Meet, a video conferencing web application. It allows 
 - Video conferencing with real-time audio and video streams
 - Mute/unmute audio during the meeting
 - Stop/start video during the meeting
-- Participants list to view the attendees of the meeting
 - Chat functionality to send messages to other participants
 - Whiteboard feature for collaborative drawing
 
@@ -67,11 +66,11 @@ npm start
 8. To leave the meeting, click on the "Leave" button or close the browser tab.
 
 ## Project Team
-1. @abhi280403
-2. @Rakshith1206
-3. @rohithreddy29
-4. @Kireeti03
-5. @abhipranav16
+1. [@abhi280403](https://github.com/abhi280403)
+2. [@Rakshith1206](https://github.com/Rakshith1206)
+3. [@rohithreddy29](https://github.com/rohithreddy29)
+4. [@Kireeti03](https://github.com/Kireeti03)
+5. [@abhipranav16](https://github.com/abhipranav16)
 
 ## Screenshots
 ![Google Authentication](https://github.com/Kireeti03/Google-Meet-Clone/assets/134700158/1b33d401-5818-4834-8f6b-344876a40875)
