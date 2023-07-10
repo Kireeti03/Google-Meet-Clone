@@ -73,7 +73,7 @@ npm start
 5. @abhipranav16
 
 ## Screenshots
-![Google Authentication]([image-url](https://user-images.githubusercontent.com/122891629/251082557-70018b39-b5e5-4e65-ba40-4a06402756a5.png))
+![Google Authentication](https://drive.google.com/file/d/1ejXv0iQj6L3Nd0JhUHQ3dF5HQbNq0eQn/view?usp=drive_link)
 
 
 ## Contributing
