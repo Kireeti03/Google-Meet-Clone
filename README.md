@@ -34,11 +34,11 @@ This is a clone of Google Meet, a video conferencing web application. It allows 
 
 1. Clone the repository:
 
-git clone <repository-url>
+  using git clone <repository-url>
 
 2. Install the dependencies:
 
-npm install
+  npm install
 
 3. Set up Google OAuth credentials:
 
