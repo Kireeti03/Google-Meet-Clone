@@ -1,3 +1,4 @@
+
 # Google Meet Clone
 
 This is a clone of Google Meet, a video conferencing web application. It allows users to create and join video meetings, communicate through chat, and share a whiteboard for collaborative drawing.
@@ -78,7 +79,9 @@ npm start
 ![Room](https://github.com/Kireeti03/Google-Meet-Clone/assets/134700158/0e2ad87a-d941-41ff-9f97-8e21ab4ed079)
 ![Whiteboard](https://github.com/Kireeti03/Google-Meet-Clone/assets/134700158/d1aa1d25-919f-4416-90b7-b00a11a0bf82)
 
-![Demo Video](https://github.com/Kireeti03/Google-Meet-Clone/assets/134700158/744d03e7-dee4-47db-a6d5-c31d1735fd23)
+![Demo Video](https://github.com/Kireeti03/Google-Meet-Clone/assets/134700158/b6846fa8-268e-4fad-bbb5-0e2103ae4a00)
+
+
 
 
 
