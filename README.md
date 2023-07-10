@@ -75,8 +75,10 @@ npm start
 ## Screenshots
 ![Google Authentication](https://github.com/Kireeti03/Google-Meet-Clone/assets/134700158/1b33d401-5818-4834-8f6b-344876a40875)
 ![Home](https://github.com/Kireeti03/Google-Meet-Clone/assets/134700158/1975e827-9638-4802-8b34-62009c8ff93c)
-![Whiteboard](https://github.com/Kireeti03/Google-Meet-Clone/assets/134700158/d1aa1d25-919f-4416-90b7-b00a11a0bf82)
 ![Room](https://github.com/Kireeti03/Google-Meet-Clone/assets/134700158/0e2ad87a-d941-41ff-9f97-8e21ab4ed079)
+![Whiteboard](https://github.com/Kireeti03/Google-Meet-Clone/assets/134700158/d1aa1d25-919f-4416-90b7-b00a11a0bf82)
+
+![Demo Video](https://drive.google.com/file/d/1_e6u6P7WxB-K3Ebv-Uv9GNcvEa49Nycj/view?usp=sharing)
 
 
 
